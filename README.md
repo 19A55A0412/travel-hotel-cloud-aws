@@ -117,7 +117,7 @@ Hosts the web application and services.
 The solution uses serverless services such as AWS Lambda and DynamoDB to reduce infrastructure cost and improve efficiency.
 <img width="952" height="539" alt="image" src="https://github.com/user-attachments/assets/6b04d7ac-eca0-4c5b-a270-3f71016c56f9" />
 <img width="905" height="540" alt="image" src="https://github.com/user-attachments/assets/9b791779-9ce2-4e79-9a81-dfbe6ee0c373" />
-![Uploading image.png…]()
+
 
 ---
 
