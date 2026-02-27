@@ -12,7 +12,8 @@ Secure booking
 Serverless architecture
 
 ## Architecture
-(Add diagram image here)
+<img width="1051" height="663" alt="image" src="https://github.com/user-attachments/assets/9986f36f-e36f-44ee-8954-56af7cbf009a" />
+
 
 ## Future Work
 Machine learning
