@@ -74,10 +74,9 @@ Hosts the web application and services.
 ---
 
 ## Final Hosted Application
-
-### Home Page
-<img width="1051" height="562" alt="image" src="https://github.com/user-attachments/assets/a9f66a75-398a-40aa-86ab-2146bc1bea62" />
-<img width="952" height="539" alt="image" src="https://github.com/user-attachments/assets/f8cb5d8a-952b-4b4e-9da9-42eb9db56e24" />
+ 
+ <img width="1051" height="536" alt="image" src="https://github.com/user-attachments/assets/02a25c33-338f-4e1d-b56b-881425111abe" />
+<img width="1051" height="562" alt="image" src="https://github.com/user-attachments/assets/b7e3e34a-cdc0-4f4b-ba84-bb86bca3d673" />
 
 
 ---
