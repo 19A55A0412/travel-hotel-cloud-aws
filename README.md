@@ -49,8 +49,8 @@ Storage for website content, hotel images, and customer files.
 
 ### Amazon DynamoDB
 High-performance NoSQL database for bookings and user data.
+<img width="1051" height="458" alt="image" src="https://github.com/user-attachments/assets/c38a2522-2bad-4b9e-85aa-963e07a2c8af" />
 
-<img width="1051" height="546" alt="image" src="https://github.com/user-attachments/assets/36d3d031-1923-4943-991e-d0f1ed479db9" />
 
 
 ### CloudWatch Monitoring
