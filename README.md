@@ -16,7 +16,7 @@ This system automates booking, manages hotel operations, and provides personaliz
 ## Cloud Architecture
 The system uses a scalable and secure AWS architecture.
 
-<img width="1051" height="663" alt="image" src="https://github.com/user-attachments/assets/ac728db5-07a8-4ee8-b5a7-da9677405739" />
+<img width="1037" height="441" alt="image" src="https://github.com/user-attachments/assets/41b35496-0bdd-45c7-ac74-aa4dee5bc68a" />
 
 
 Key components include:
@@ -35,51 +35,48 @@ Key components include:
 ## AWS Services Used
 
 ### AWS Lambda
-Serverless backend to process bookings, payments, and chatbot logic.<img width="1051" height="546" alt="image" src="https://github.com/user-attachments/assets/ee9d0791-5ffa-4abe-9b05-8a5f78c18ed5" />
+Serverless backend to process bookings, payments, and chatbot logic.
 
-<img width="1051" height="476" alt="image" src="https://github.com/user-attachments/assets/49795e69-51af-43c5-83bf-eb20c51c6453" />
+<img width="1051" height="476" alt="image" src="https://github.com/user-attachments/assets/ec8992b7-f6c6-4e2b-b64b-3631fa0006e2" />
 
 
 ### Amazon S3
 Storage for website content, hotel images, and customer files.
-<img width="1051" height="458" alt="image" src="https://github.com/user-attachments/assets/47d83e84-7803-4ad0-bf51-7c97396f1ec7" />
 
+<img width="1051" height="546" alt="image" src="https://github.com/user-attachments/assets/7eac5bd0-8fd2-4b47-b605-2327607255df" />
 
 
 ### Amazon DynamoDB
 High-performance NoSQL database for bookings and user data.
-<img width="1051" height="524" alt="image" src="https://github.com/user-attachments/assets/8f277bf5-e7dc-4da7-b12f-eac1c1de40bf" />
+
+<img width="1051" height="546" alt="image" src="https://github.com/user-attachments/assets/36d3d031-1923-4943-991e-d0f1ed479db9" />
+
 
 ### CloudWatch Monitoring
 Tracks application performance and logs.
 
-<img width="1051" height="491" alt="image" src="https://github.com/user-attachments/assets/82b4593b-9eb1-4b2f-9052-5745c0b7dbc4" />
+<img width="1051" height="524" alt="image" src="https://github.com/user-attachments/assets/fe1cea1c-401e-478d-a8d6-aac9876d3ec6" />
+
 
 ### Route 53
 Manages domain and traffic routing.
-<img width="1037" height="441" alt="image" src="https://github.com/user-attachments/assets/89c6dbd9-f1c4-4722-b657-71d9c2597b66" />
 
+<img width="1051" height="491" alt="image" src="https://github.com/user-attachments/assets/92c5d79c-f142-4f8c-aaee-66029ad17861" />
 
-### CloudFront
-Delivers content with low latency.
-
-![CloudFront](screenshots/cloudfront.png)
 
 ### EC2
 Hosts the web application and services.
-
-<img width="1051" height="536" alt="image" src="https://github.com/user-attachments/assets/9ac06688-0526-4a83-aa41-85534edaeb0b" />
-
+<img width="1037" height="441" alt="image" src="https://github.com/user-attachments/assets/63b221f1-5072-41ef-85e5-cb3b71f64106" />
 
 ---
 
 ## Final Hosted Application
- 
- <img width="1051" height="536" alt="image" src="https://github.com/user-attachments/assets/02a25c33-338f-4e1d-b56b-881425111abe" />
-<img width="1051" height="562" alt="image" src="https://github.com/user-attachments/assets/b7e3e34a-cdc0-4f4b-ba84-bb86bca3d673" />
+
+### Home Page
+<img width="1051" height="536" alt="image" src="https://github.com/user-attachments/assets/8780f8ab-8c68-418d-b6b6-276bc2b4de1d" />
+<img width="1051" height="562" alt="image" src="https://github.com/user-attachments/assets/ec570305-5802-4ae4-9b8e-b502e00bbe2c" />
 
 
----
 
 ## Key Features
 - Real-time hotel booking
@@ -114,9 +111,7 @@ Hosts the web application and services.
 
 ## Cost Optimization
 The solution uses serverless services such as AWS Lambda and DynamoDB to reduce infrastructure cost and improve efficiency.
-<img width="952" height="539" alt="image" src="https://github.com/user-attachments/assets/6b04d7ac-eca0-4c5b-a270-3f71016c56f9" />
-<img width="905" height="540" alt="image" src="https://github.com/user-attachments/assets/9b791779-9ce2-4e79-9a81-dfbe6ee0c373" />
-
+<img width="952" height="539" alt="image" src="https://github.com/user-attachments/assets/70d24b53-dc3f-43e4-96c6-5994384bc179" />
 
 ---
 
