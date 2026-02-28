@@ -16,7 +16,8 @@ This system automates booking, manages hotel operations, and provides personaliz
 ## Cloud Architecture
 The system uses a scalable and secure AWS architecture.
 
-<img width="1037" height="441" alt="image" src="https://github.com/user-attachments/assets/41b35496-0bdd-45c7-ac74-aa4dee5bc68a" />
+<img width="1051" height="663" alt="image" src="https://github.com/user-attachments/assets/655a0757-ff25-4aab-836c-df07a8cab5d5" />
+
 
 
 Key components include:
